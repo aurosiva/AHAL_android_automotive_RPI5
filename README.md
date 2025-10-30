@@ -199,17 +199,58 @@ dtoverlay=wm8960-soundcard
 
 Apache License 2.0 (following AOSP licensing)
 
-## 👥 Authors
+## 📸 Media Content
 
-- Audio HAL Implementation: KonstaKANG, AOSP Project
-- WM8960 Integration & Documentation: [Your Team/Organization]
+The `docs/` directory contains demonstration videos and hardware setup images:
+
+### Videos
+- **`20251030_101753.mp4`** (86 MB)
+  - Audio playback demonstration
+  - WM8960 speaker output test
+  - System audio routing verification
+
+- **`20251030_110336.mp4`** (736 MB)
+  - Complete system demonstration
+  - Bluetooth A2DP Sink audio streaming
+  - Phone-to-car audio playback
+  - Media player functionality
+
+### Images
+- **`20251030_194008.jpg`** (3.3 MB)
+  - Hardware setup: Raspberry Pi 5 with WM8960 codec
+  - Physical connections and wiring
+  - Complete system assembly
+
+- **`20251030_194019.jpg`** (2.6 MB)
+  - WM8960 audio amplifier board close-up
+  - I2C and I2S connections
+  - Speaker connection details
+
+*All media files are stored using Git LFS for efficient repository management.*
+
+## 👥 Author
+
+**Sivaraman Ramamoorthy**
+- 📧 Email: aurosivaraman@gmail.com
+- 📱 Phone: +91 91592 29591
+- 🔧 Role: WM8960 Integration, Audio HAL Customization, Bluetooth A2DP Implementation
+- 📚 Documentation: Complete technical architecture and configuration guides
+
+**Acknowledgments:**
+- Audio HAL Base Implementation: KonstaKANG, AOSP Project
+- Android Framework: The Android Open Source Project
 
 ## 📧 Contact
 
-For questions or issues, please open an issue in this repository.
+For questions, collaborations, or technical discussions:
+- **Email:** aurosivaraman@gmail.com
+- **Phone:** +91 91592 29591
+- **Issues:** Open an issue in this repository
 
 ---
 
+**Document Version:** 1.1  
 **Last Updated:** October 30, 2025  
-**Platform:** Raspberry Pi 5 AOSP (Android Automotive)  
+**Author:** Sivaraman Ramamoorthy  
+**Platform:** Raspberry Pi 5 AOSP (Android Automotive 16)  
 **Audio Codec:** WM8960

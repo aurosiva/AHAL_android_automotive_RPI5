@@ -966,8 +966,26 @@ adb logcat | grep "AudioTrack"
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** October 29, 2025  
-**Platform:** AOSP for Raspberry Pi 5  
-**Audio Codec:** WM8960 (I2C: 0x1a, I2S interface)
+## 👥 Author
+
+**Sivaraman Ramamoorthy**
+- 📧 Email: aurosivaraman@gmail.com
+- 📱 Phone: +91 91592 29591
+- 🔧 Specialization: WM8960 Codec Integration, Bluetooth A2DP Sink, Audio Policy Configuration
+- 🎯 Contribution: Complete WM8960 setup, mixer initialization, Bluetooth framework fixes, comprehensive documentation
+
+**Acknowledgments:**
+- Audio HAL Base: KonstaKANG, AOSP Project
+- Android Bluetooth Stack: The Android Open Source Project
+- WM8960 Driver: Linux Kernel Community
+
+---
+
+**Document Version:** 1.1  
+**Last Updated:** October 30, 2025  
+**Author:** Sivaraman Ramamoorthy  
+**Contact:** aurosivaraman@gmail.com | +91 91592 29591  
+**Platform:** AOSP for Raspberry Pi 5 (Android Automotive 16)  
+**Audio Codec:** WM8960 (I2C: 0x1a, I2S interface)  
+**Repository:** https://github.com/aurosiva/AHAL_android_automotive_RPI5
 

@@ -1383,8 +1383,26 @@ i2c_smbus_write_byte_data()  ← Write to WM8960 register
 
 ---
 
-**Document Version:** 1.0  
+---
+
+## 👥 Author
+
+**Sivaraman Ramamoorthy**
+- 📧 Email: aurosivaraman@gmail.com
+- 📱 Phone: +91 91592 29591
+- 🔧 Specialization: Audio HAL Architecture, WM8960 Integration, Embedded Linux Audio Systems
+- 🎯 Contribution: Complete audio HAL analysis, architecture documentation, performance optimization
+
+**Acknowledgments:**
+- Audio HAL Implementation: KonstaKANG, AOSP Project
+- Android Framework: The Android Open Source Project
+
+---
+
+**Document Version:** 1.1  
 **Last Updated:** October 30, 2025  
-**Author:** AI Assistant  
-**Platform:** Raspberry Pi 5 AOSP
+**Author:** Sivaraman Ramamoorthy  
+**Contact:** aurosivaraman@gmail.com | +91 91592 29591  
+**Platform:** Raspberry Pi 5 AOSP (Android Automotive 16)  
+**Repository:** https://github.com/aurosiva/AHAL_android_automotive_RPI5
 
